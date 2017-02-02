@@ -14,6 +14,6 @@ Yes  ,  It  can  be  achieved   using  JSLASH.
 
 How   speed   JSLASH,JDOLLAR,JAS  is  compared  to  GDollar?
 
-JSLASH  can  create  a   compiler  with in  3 minutes.
+JSLASH  can  create  a   compiler  with in  few  seconds.
 
 For  JDollar-JSLASH ,JAS  can  create a  remoteserver with in  4  hours than  GDollar.
